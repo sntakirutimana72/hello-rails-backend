@@ -1,11 +1,11 @@
-# hello-rails-backend
+# Hello-rails
 
 > A restful API that serves a random greeting message on every request. Users can interact with the API with the help of counterpart app, designed in react.
 
 
-## Counterpart App Link
+## Counterpart app link
 
-- [react-app](../../../hello-rails-frontend)
+- [frontend-app](../../../hello-rails-frontend)
 
 
 ## Built With
